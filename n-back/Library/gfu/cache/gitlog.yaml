@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-05-17T19:59:32.269-03:00
+  initializedAtString: 2020-05-17T19:48:18.101-03:00
+  log:
+  - commitID: 6df82e106f769e35efbb144eb50873ab44a2802f
+    mergeA: 5b79d32454d05688695df0ae5c684419e7258ea4
+    mergeB: ea3dbf87e38a9009488760b049f83046060cffdc
+    authorName: Marcelus Oldoni
+    authorEmail: marcelus.oldoni@gmail.com
+    commitEmail: marcelus.oldoni@gmail.com
+    commitName: Marcelus Oldoni
+    summary: Merge branch 'master' of https://github.com/marcelus/nBack
+    description: 
+    timeString: 2020-05-17T19:39:06.000-03:00
+    commitTimeString: 2020-05-17T19:39:06.000-03:00
+    changes: []
+  - commitID: ea3dbf87e38a9009488760b049f83046060cffdc
+    mergeA: 
+    mergeB: 
+    authorName: Marcelus Oldoni
+    authorEmail: marcelus.oldoni@gmail.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2020-05-17T19:07:56.000-03:00
+    commitTimeString: 2020-05-17T19:07:56.000-03:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\Usuario\OneDrive - UNIVALI\Documentos\Unity\n-back\README.md
+      projectPath: README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 5b79d32454d05688695df0ae5c684419e7258ea4
+    mergeA: 
+    mergeB: 
+    authorName: Marcelus Oldoni
+    authorEmail: marcelus.oldoni@gmail.com
+    commitEmail: marcelus.oldoni@gmail.com
+    commitName: Marcelus Oldoni
+    summary: Revert "Initial commit"
+    description: This reverts commit 8e96d97cdaf5d7f52e148f213a11920755b32b3d.
+    timeString: 2020-05-17T19:02:01.000-03:00
+    commitTimeString: 2020-05-17T19:02:01.000-03:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\Usuario\OneDrive - UNIVALI\Documentos\Unity\n-back\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\Usuario\OneDrive - UNIVALI\Documentos\Unity\n-back\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\Usuario\OneDrive - UNIVALI\Documentos\Unity\n-back\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: 8e96d97cdaf5d7f52e148f213a11920755b32b3d
+    mergeA: 
+    mergeB: 
+    authorName: Marcelus Oldoni
+    authorEmail: marcelus.oldoni@gmail.com
+    commitEmail: marcelus.oldoni@gmail.com
+    commitName: Marcelus Oldoni
+    summary: Initial commit
+    description: 
+    timeString: 2020-05-17T18:45:57.000-03:00
+    commitTimeString: 2020-05-17T18:45:57.000-03:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\Usuario\OneDrive - UNIVALI\Documentos\Unity\n-back\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\Usuario\OneDrive - UNIVALI\Documentos\Unity\n-back\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\Usuario\OneDrive - UNIVALI\Documentos\Unity\n-back\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
